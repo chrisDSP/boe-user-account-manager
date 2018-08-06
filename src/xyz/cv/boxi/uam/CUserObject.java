@@ -1,5 +1,5 @@
 //Business Objects Enterprise User Account Manager
-//An application for maintaining failback indentities in SAP Business Objects Enterprise
+//An application for maintaining fallback indentities in SAP Business Objects Enterprise
 //v0.2.0
 //
 //MIT License
