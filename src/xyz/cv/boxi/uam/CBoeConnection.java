@@ -10,7 +10,6 @@ package xyz.cv.boxi.uam;
 
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
-
 import com.crystaldecisions.sdk.exception.SDKException;
 import com.crystaldecisions.sdk.framework.CrystalEnterprise;
 import com.crystaldecisions.sdk.framework.IEnterpriseSession;
@@ -22,8 +21,6 @@ import com.crystaldecisions.sdk.framework.*;
 import com.crystaldecisions.sdk.plugin.*;
 import com.crystaldecisions.sdk.plugin.desktop.user.*;
 import com.crystaldecisions.sdk.plugin.desktop.usergroup.*;
-
-
 import com.crystaldecisions.sdk.plugin.desktop.common.*;
 import com.crystaldecisions.sdk.occa.infostore.*;
 import com.crystaldecisions.sdk.occa.security.*;

@@ -15,13 +15,10 @@ import com.crystaldecisions.sdk.framework.*;
 import com.crystaldecisions.sdk.plugin.*;
 import com.crystaldecisions.sdk.plugin.desktop.user.*;
 import com.crystaldecisions.sdk.plugin.desktop.usergroup.*;
-
-
 import com.crystaldecisions.sdk.plugin.desktop.common.*;
 import com.crystaldecisions.sdk.occa.infostore.*;
 import com.crystaldecisions.sdk.occa.security.*;
 import com.crystaldecisions.sdk.occa.pluginmgr.*;
-//import com.crystaldecisions.sdk.exception.SDKException;
 import java.util.*;
 import java.lang.reflect.*;
 import org.apache.logging.log4j.LogManager;
