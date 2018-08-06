@@ -1,5 +1,5 @@
 # boe-user-account-manager
-An application for maintaining failback indentities in SAP Business Objects Enterprise
+An application for maintaining fallback indentities in SAP Business Objects Enterprise
 
 BOE User Account Manager addresses an issue with SAP Business Objects Enterprise where user identities and content are deleted when a user's only login alias becomes disabled.
 
